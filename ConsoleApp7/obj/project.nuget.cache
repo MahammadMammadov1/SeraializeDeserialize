@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pHVmrFZ7MwGDSJ+qm+n0scALj3yHl1ogJ3x/P+SapjAYNe03q2nvGFlTYp/0ZYNvh6Lh35q0vydfO+MAtaEzuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mehemmed\\Desktop\\BP206task\\ConsoleApp7\\ConsoleApp7\\HomeTaskJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mehemmed\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
